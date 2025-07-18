@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently learning **JavaScript React, and Business Development**  
-- 👀 Interested in **Web Development**, **Open Source**, and **Tech-Driven Business Growth**  
+- 🌱 Currently learning **JavaScript, React, and Business Development**  
+- 👀 Interested in **UI engineering**, **Open Source**, and **Tech-Driven Business Growth**  
 - 💬 Ask me about **Frontend Development, and Startup Strategy**  
 - 📫 How to reach me: **afrazanees57@gmail.com**  
 - ⚡ Fun fact: **I turn coffee into code and ideas into impact ☕💡**  
