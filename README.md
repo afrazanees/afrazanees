@@ -69,7 +69,7 @@
   <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrazanees&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
   <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=afrazanees&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+<hr>
  -->
 
-<hr>
 <p align="center">🚀 Creating impactful solutions through code! 💻</p>
