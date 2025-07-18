@@ -9,11 +9,11 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently learning **JavaScript and React**  
-- 👀 Interested in **Web Development** and **Open Source**  
-- 💬 Ask me about **React, JavaScript and Frontend Development**  
+- 🌱 Currently learning **JavaScript React, and Business Development**  
+- 👀 Interested in **Web Development**, **Open Source**, and **Tech-Driven Business Growth**  
+- 💬 Ask me about **Frontend Development, and Startup Strategy**  
 - 📫 How to reach me: **afrazanees57@gmail.com**  
-- ⚡ Fun fact: **I turn coffee into code ☕💻**  
+- ⚡ Fun fact: **I turn coffee into code and ideas into impact ☕💡**  
 
 ---
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50"></h2>
